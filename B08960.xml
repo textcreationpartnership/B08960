@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for printing by subscription, the second, third and fourth volumes of the French Book of martyrs, or History of the famous Edict of Nantes. Which three volumes with the first already publish'd, contain an account of all the persecutions that have been in France, from the beginning of the Reformation (there) down to the present time, comprehending the reigns of Henry III. Henry IV. Lewis XIII. and Lewis XIV. The whole work faithfully extracted from all the publick and secret memoirs that cou'd possibly be procured, by that learned and judicious divine Mounsieur Bennoit. Printed first in French by the authority of the states of Holland and West-Friezland, and now translated into English. With Her Majesties royal priviledge.</title>
+            <author>Dunton, John, 1659-1733.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08960</idno>
+            <idno type="OCLC"> 80922569</idno>
+            <idno type="STC">Wing D2632AB</idno>
+            <idno type="STC">ESTC R176027</idno>
+            <idno type="EEBO-CITATION">80922569</idno>
+            <idno type="OCLC">ocm 80922569</idno>
+            <idno type="VID">191863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191863)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2893:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for printing by subscription, the second, third and fourth volumes of the French Book of martyrs, or History of the famous Edict of Nantes. Which three volumes with the first already publish'd, contain an account of all the persecutions that have been in France, from the beginning of the Reformation (there) down to the present time, comprehending the reigns of Henry III. Henry IV. Lewis XIII. and Lewis XIV. The whole work faithfully extracted from all the publick and secret memoirs that cou'd possibly be procured, by that learned and judicious divine Mounsieur Bennoit. Printed first in French by the authority of the states of Holland and West-Friezland, and now translated into English. With Her Majesties royal priviledge.</title>
+                  <author>Dunton, John, 1659-1733.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton at the Raven in the Poultrey.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Proposals are to be had of the undertaker John Dunton at the Raven in the Poultrey, and of most booksellers in London and the countrey"--P. [2].</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Benoist, Elie, 1640-1728. --  Histoire de l'édit de Nantes. --  English.</term>
+               <term>Publishers and publishing --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191863:1"/>
+            <head>PROPOSALS For Printing by Subſcription, the <hi>Second, Third</hi> and <hi>Fourth</hi> Volumes OF THE <hi>French Book of Martyrs,</hi> Or HISTORY of the Famous Edict of Nantes.</head>
+            <head type="sub">Which <hi>Three Volumes</hi> with the <hi>Firſt</hi> already Publiſh'd, CONTAIN <hi>An Account of all the <hi>Perſecutions</hi> that have been in <hi>France,</hi> from the beginning of the <hi>Reformation</hi> (there) down to this preſent Time, comprehending the Reigns of <hi>Henry III. Henry IV. Lewis XIII.</hi> and <hi>Lewis XIV.</hi> The whole Work Faithfully Extracted from all the <hi>Publick</hi> and <hi>Secret Memoirs</hi> that cou'd poſſibly be procured, by that Learned and Judicious Divine Mounſieur <hi>Bennoit.</hi> Printed firſt in French by the <hi>Authority</hi> of the <hi>States</hi> of <hi>Holland</hi> and <hi>Weſt-Friezland,</hi> and now Tranſlated into Engliſh.</hi>
+            </head>
+            <argument>
+               <p>With Her Majeſties Royal Priviledge.</p>
+            </argument>
+            <p>THE <hi>Firſt Volume</hi> of this <hi>French Martyrology</hi> already Publiſh'd, having fully anſwered the Expectations of the <hi>Curious,</hi> it has occaſion'd ſeveral Gentlemen to deſire a ſpee<g ref="char:EOLhyphen"/>dy Publication of the <hi>whole Work;</hi> but ſeeing that cannot be done with the Expedition ex<g ref="char:EOLhyphen"/>pected without Great Expence, I ſhall therefore to gratifie thoſe who are impatient for the remaining <hi>Volumes,</hi> make <hi>Propoſals</hi> for Printing the <hi>Second, Third</hi> and <hi>Fourth</hi> by way of Subſcription, not doubting but that ſuch a <hi>Seaſonable Work</hi> as this is, (which has been <hi>Patronized by the States of</hi> Holland, and born a Second Impreſſion there in a few Weeks) will meet with anſwerable Encouragement here, ſeeing her <hi>Majeſties Royal Licenſe</hi> for the Printing of it, and the Expectations of ſo many Great Perſons as have deſir'd it in our own Language, will not a little recommend it to the <hi>Engliſh Nation.</hi> As for the <hi>Author,</hi> his Preface to the <hi>Firſt Volume</hi> does yet promiſe fairer things, as his Correſ<g ref="char:EOLhyphen"/>pondence for the carrying on ſo <hi>Great a Work</hi> extending to ſuch diſtant places, his acceſs to ſo many <hi>Publick</hi> and <hi>Private</hi> Libraries, as well as to the <hi>Cabinets</hi> and <hi>Studies</hi> of the Exacter ſort, where <hi>Eugitive Pieces</hi> ſecure themſelves. His Aſſiſtances by <hi>Manuſcripts</hi> and <hi>Collecti<g ref="char:EOLhyphen"/>ons,</hi> eſpecially thoſe of the Learned and Ingenious Monſieur <hi>Teſſerean,</hi> and the <hi>Memoirs</hi> he left at his Death, with other helps, which will beſt appear in the Work it ſelf.</p>
+            <p>If <hi>Hiſtory</hi> be properly Conſecrated to preſerve to Poſterity the Remembrance of things the <hi>moſt remarkable</hi> that fall out in the World, it cannot be deny'd, but that the deplorable End of the Liberty which the <hi>Proteſtants</hi> enjoy'd ſo long a Time in <hi>France,</hi> is one of the moſt <hi>Memo<g ref="char:EOLhyphen"/>rable Accidents</hi> that merits to be taken in hand for the Information of ſucceeding Ages. There is not any thing in that <hi>Revolution</hi> which does not deſerve <hi>particular Refl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions;</hi> up<g ref="char:EOLhyphen"/>on whatever Circumſtance a Man fixes his Mind, he ſhall find enough to exerciſe his Thoughts either at wondering at the <hi>Malice</hi> and <hi>Fury</hi> of thoſe that were the <hi>Authors</hi> of it, or in admiring at the <hi>Patience</hi> of thoſe that were envelop'd in it. It is not to be imagin'd what has paſs'd in that Kingdom upon this Occaſion, eſpecially within theſe laſt Thirty Years. It was very neceſſary therefore to eſtabliſh things in their <hi>true Light,</hi> and to Collect in a
+<pb facs="tcp:191863:2"/>
+               <hi>Hiſtory</hi> all the ſorrowful Accidents of this Revolution, (<hi>we having as yet no Faithful Colle<g ref="char:EOLhyphen"/>ction of them any where extant)</hi> to the intent that thereby a durable and perpetual <hi>Monument</hi> might be erected, of a <hi>Cataſtrophe</hi> worthy to be Eterniz'd in all its Circumſtances, and therein an <hi>Account given</hi> of all the <hi>Martyrdoms</hi> and <hi>Perſecutions</hi> which in <hi>France</hi> have befallen thoſe who for theſe Fourſcore and ten Years have lived in that Kingdom under the Faith of the moſt <hi>Solemn Edict</hi> that ever was Publiſh'd.</p>
+            <list>
+               <head>The <hi>PROPOSALS</hi> are,</head>
+               <item>I. THAT theſe <hi>Second, Third,</hi> and <hi>Fourth Volumes</hi> will contain about Three Hun<g ref="char:EOLhyphen"/>dred Sheets, which ſhall be Printed on the ſame <hi>Paper, Character</hi> and <hi>Size</hi> with the <hi>Firſt Volume</hi> already Publiſhed, that <hi>Paper</hi> and <hi>Character</hi> being the very ſame with theſe Pro<g ref="char:EOLhyphen"/>poſals.</item>
+               <item>II. That the Price of theſe <hi>Three Volumes</hi> to Subſcribers ſhall be Twenty four Shillings in Sheets, to be paid at four equal payments, <hi>viz.</hi> Six Shillings in hand (for the ſpeedy carrying on the Work) Six Shillings upon the Delivery of the Second Volume, Six Shil<g ref="char:EOLhyphen"/>lings more at the Delivery of the Third, and 6 <hi>s.</hi> at Delivery of the Fourth.</item>
+               <item>III. And for the further Encouragement of thoſe who promote it, any Gentleman who will ſubſcribe for ſix Books, ſhall have a ſeventh <hi>Gratis,</hi> which will reduce the Price of the <hi>Three Volumes</hi> to about One pound ſix pence three Farthings.</item>
+               <item>IV. The Price of theſe <hi>Three Volumes</hi> to thoſe that do not Subſcribe, ſhall not be leſs than Twenty ſeven Shillings in Sheets.</item>
+               <item>V. All who intend to Aſſiſt in the <hi>Advancement</hi> of this <hi>Uſeful Work,</hi> are deſir'd to ſend in their Subſcriptions with all ſpeed unto the <hi>
+                     <g ref="char:V">Ʋ</g>ndertaker</hi> here undernamed, where <hi>Printed Receipts</hi> ſhall be given them; and if they ariſe to a competent Number, the Second Volume ſhall be publiſh'd by <hi>Chriſtm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs</hi> next, and the <hi>Third</hi> and <hi>Fourth</hi> by <hi>Lady-Day</hi> following.</item>
+               <item>VI. That to render the Work <hi>Compleat,</hi> there ſhall be a large <hi>Alphabetical Table</hi> to each Volume.</item>
+               <item>VII. Thoſe who expect the Benefit of theſe Propoſals, are to ſend in their Firſt Payment before the 24th. of <hi>December</hi> next, for after that Day no Subſcription ſhall be taken in.</item>
+            </list>
+            <p>PPOPOSALS are to be had of the UNDERTAKER<lb/> 
+               <hi>Iohn Dunton</hi> at the <hi>Raven</hi> in the <hi>Poultrey,</hi>
+               <lb/> And of moſt Bookſellers in <hi>London</hi> and the Countrey.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>There is Newly Publiſhed,</head>
+            <p>☞ THe <hi>Genuine Remains</hi> of that Learned Prelate <hi>Dr. Thomas Barlow,</hi> late Lord Biſhop of <hi>Lincoln,</hi> containing divers Diſcourſes <hi>Theological, Philoſophical, Hiſto<g ref="char:EOLhyphen"/>rical, &amp;c.</hi> in Letters to ſeveral Perſons of Honour and Quality. To which is added, the Reſolution of many <hi>abſtruſe</hi> Points; as alſo Directions to a Young Divine for his <hi>Stu<g ref="char:EOLhyphen"/>dy of Divinity,</hi> and Choice of his <hi>Library,</hi> with great Variety of other Subjects. Publiſhed from his Lordſhips Original Papers. <hi>Price Bound 6 s.</hi>
+            </p>
+            <p>Printed for <hi>John Dunton</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
